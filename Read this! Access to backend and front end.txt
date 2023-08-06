@@ -1,0 +1,10 @@
+BACKEND URL
+http://localhost/olgontest
+Account to login
+user: admin
+pw: 123
+
+DBFILENAME - olsentest.sql
+
+FRONTEND URL
+http://localhost/olgontest/index.php/frontend
